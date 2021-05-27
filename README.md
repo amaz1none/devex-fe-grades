@@ -11,7 +11,7 @@
 ## 🧬 Overall structure
 
 ### 1. Shared part
-  - Values
+  - [Values](/shared/values.md)
   - Levels
   - Roles
   - Soft-skills
