@@ -1,3 +1,5 @@
+![Values survey questions](https://user-images.githubusercontent.com/47868427/119986499-94771d80-bfcc-11eb-8f65-6b7e8bbf928f.png)
+
 # 🔑 Why do we need it?
   - It is important for the long-term success of the company
   - It helps to make the right decisions
