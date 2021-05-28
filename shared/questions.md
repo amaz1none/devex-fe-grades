@@ -1,5 +1,8 @@
 # Set of questions for each level
 
+![devexlogo](https://user-images.githubusercontent.com/47868427/119981009-c46ef280-bfc5-11eb-9afd-a88db3dd16ef.png)
+
+
 ## 🦉 1. What are my responsibilities? 
 ### This is the main question for everyone. The answer to this question determines your grade. Not years of experience or set of knowledge. 
 ### Example of responsibilies: deliver X type of tasks on the production independently 
