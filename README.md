@@ -15,7 +15,7 @@
   - Levels
   - Roles
   - Soft-skills
-  - Set of topics and questions for each level
+  - [Set of topics and questions for each level](/shared/questions.md)
   
 ### 2. Separate part - hard skills
   - Frontend
