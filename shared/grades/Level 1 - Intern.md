@@ -13,7 +13,7 @@ Students of technical universities, people who have finished online courses
 - Backend
 - etc.
 
-## 🆙 3. How to upgrade?
+## 🆙 3. How to upgrade? [Next Level - Junior](/shared/grades/Level%202%20-%20Junior.md)
 - Learn fast
 - Become more independent
 - Communicate with teammates
