@@ -70,4 +70,16 @@ Project P has strict deadlines.
 I am developing a perfect process / feature that will solve all the problems. 
 I spend so much time on this that I don't have time to work on the project.
 
+## 📇 6. Customer care
+### Choose technologies based on business needs
+#### 👍How to👍
+The client wants Project D to use simple market technologies. 
+We assess the risks, discuss them with the client, and select the right team. 
+We start the project and in during working on it try to sell our usual approach.
+#### 👎How not to👎
+The client wants to implement the K library in the project. 
+I do it without discussing why it is so necessary, without assessing the risks. 
+In case of failure, I reduce the level of confidence in the technical expertise of the team.
+
+
 
