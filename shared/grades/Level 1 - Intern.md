@@ -5,7 +5,7 @@ Basic level for people without commercial development experience and strong foun
 ### Deliver simple tasks under close supervision 
 
 ## 📚 2. Knowledge
-- Frontend
+- [Frontend](/hard-skills/frontend/Level%201%20-%20Intern.md)
 - Backend
 - etc.
 
