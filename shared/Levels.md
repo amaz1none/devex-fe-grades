@@ -5,7 +5,7 @@
 
 
 ## Levels
-- Level 1 - Intern
+- [Level 1 - Intern](/shared/grades/Level%201%20-%20Intern.md)
 - Level 2 - Junior
 - Level 3 - Pre-middle
 - Level 4 - Middle
