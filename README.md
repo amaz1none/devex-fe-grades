@@ -12,7 +12,7 @@
 
 ### 1. Shared part
   - [Values](/shared/values.md)
-  - [Levels](/shared/levels.md)
+  - [Levels](/shared/Levels.md)
   - Roles
   - [Set of topics and questions for each level](/shared/questions.md)
   
