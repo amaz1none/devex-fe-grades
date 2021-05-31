@@ -81,5 +81,15 @@ The client wants to implement the K library in the project.
 I do it without discussing why it is so necessary, without assessing the risks. 
 In case of failure, I reduce the level of confidence in the technical expertise of the team.
 
+## 📇 7. Flexibility
+### Evolution instead of revolution
+#### 👍How to👍
+In Project C, you need to make changes to the agreed scope of work. 
+I'm discussing how this will affect the initial agreements. 
+If everything is OK, we change it.
+#### 👎How not to👎
+There are a lot of bugs in Project C. 
+Every month I bring new libraries to it and change the approach to development, without finishing what I've started. 
+As a result, there are even more problems.
 
 
