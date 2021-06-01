@@ -34,6 +34,8 @@ Level for people with commercial development experience. Here we expect you to b
 - Responsibility
 - Initiative
 - Open-mindness
+- Result oriented
+- Planning
 
 
 ## ✋ 6. What kind of behavior I should avoid?
