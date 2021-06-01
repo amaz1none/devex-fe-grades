@@ -12,7 +12,7 @@ Level for people with small commercial development experience but with strong fo
 - Backend
 - etc.
 
-## 🆙 3. How to upgrade? [Next level - Middle]()
+## 🆙 3. How to upgrade? [Next level - Middle](/shared/grades/Level%203-5%20-%20Middle.md)
 - Stable performance
 - Meet estimates
 - Follow architectural guidlines
