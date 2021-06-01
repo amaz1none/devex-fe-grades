@@ -33,6 +33,9 @@
  #### Can I change something in the grade system?
  - Yes, you can make your suggestions. They will be reviewed by mainteners of this repo
 
+#### Can I skip some levels (e.g. become L3 Middle after L1 Intern)?
+- No, it is not possible, progress should be made step-by-step. 
+
  ##  👏👏👏Contributors👏👏👏
 
 <table>
