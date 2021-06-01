@@ -17,6 +17,7 @@ Students of technical universities, people who have finished online courses
 - Learn fast
 - Become more independent
 - Communicate with teammates
+- Understand the project's processes and comply them
 
 ## 🎯 4. Tasks
 - Small improvements
@@ -28,6 +29,7 @@ Students of technical universities, people who have finished online courses
 - Learn learn learn
 - Modesty
 - Curiosity
+- Search and analysis of the information
 
 ## ✋ 6. What kind of behavior I should avoid?
 - Asking same questions again and again
