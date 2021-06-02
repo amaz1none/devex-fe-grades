@@ -20,7 +20,7 @@
 ### GET/POST, PUT/PATCH, DELETE, Option
 
 ## 🩳 6. HTML/CSS
-### Elements, attributes, type of styles, grid/flex 
+### Elements, attributes, type of styles, box model
 
 ## 🤖 7. JS basics
 ### ES6+, data types, scope, var/let
