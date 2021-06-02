@@ -28,6 +28,7 @@ Level for people with commercial development experience. Here we expect you to b
 - Untypical feature parts
 - Bugs
 - Unit-tests
+- Code review
 
 ## 🍦 5. Soft-skills
 - Knowledge sharing
