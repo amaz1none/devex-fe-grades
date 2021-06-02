@@ -18,6 +18,7 @@ Level for people with small commercial development experience but with strong fo
 - Follow architectural guidlines
 - Reasonable amount of comments into PRs
 - Independent work on standard tasks
+- Participate in code-review
 
 ## 🎯 4. Tasks
 - Improvements
