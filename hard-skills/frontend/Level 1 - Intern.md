@@ -23,7 +23,7 @@
 ### Elements, attributes, type of styles, grid/flex 
 
 ## 🤖 7. JS basics
-### ES6+, data types, scope, closure, hoisting
+### ES6+, data types, scope, var/let
 
 ## ➕ 8. Could be a plus:
 - experience in commercial projects
