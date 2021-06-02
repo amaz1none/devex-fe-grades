@@ -10,7 +10,7 @@ Level for people with commercial development experience. Here we expect you to b
 ### Deliver typical feature's parts to the production within timelines and good code quality. Deliver untypical tasks under supervision
 
 ## 📚 2. Knowledge
-- Frontend
+- [Frontend](/hard-skills/frontend/Level%203-5%20-%20Middle.md)
 - Backend
 - etc.
 
