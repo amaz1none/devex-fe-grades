@@ -1,6 +1,7 @@
 # Set of questions for each level
 
-![devexlogo](https://user-images.githubusercontent.com/47868427/119981009-c46ef280-bfc5-11eb-9afd-a88db3dd16ef.png)
+<img width="1219" alt="q" src="https://user-images.githubusercontent.com/47868427/120663563-cc7dd500-c492-11eb-84fc-fd19da628f69.png">
+
 
 ## Feel free to use it as the template for each level
 
