@@ -15,7 +15,7 @@
   - [Values](/shared/values.md)
   - [Levels](/shared/Levels.md)
   - Roles
-  - [Set of topics and questions for each level](/shared/questions.md)
+  - [Set of topics and questions for each level](/shared/Questions.md)
   
 ### 2. Separate part - hard skills
   - [Frontend](/hard-skills/frontend)
@@ -43,4 +43,4 @@
   <tr>
     <td align="center"><a href="https://github.com/PalmZE"><img src="https://avatars.githubusercontent.com/u/16352166?v=4" width="100px;" alt=""/><br /><sub><b>Eduard Kovnatsky</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/amaz1none"><img src="https://avatars.githubusercontent.com/u/47868427?v=4" width="100px;" alt=""/><br /><sub><b>Dmitry Derbenev</b></sub></a><br /></td>
-
+  <td align="center"><a href="https://github.com/mmorozkov"><img src="https://avatars.githubusercontent.com/u/55201615?v=4" width="100px;" alt=""/><br /><sub><b>Mikhail Morozkov</b></sub></a><br /></td>
