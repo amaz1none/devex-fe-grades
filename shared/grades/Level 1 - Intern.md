@@ -2,8 +2,7 @@
 
      
 # Overview
-Basic level for people without commercial development experience but with strong foundamental background.
-Students of technical universities, people who have finished online courses
+### Basic level for people without commercial development experience but with strong foundamental background. Students of technical universities, people who have finished online courses. Usually, for St. Petersburg we are looking for [ITMO](https://itmo.ru/ru/) students, in Rostov-on-Don - [SFEDU](https://sfedu.ru/)
 
 ## 🦉 1. Responsibilities
 ### Deliver simple tasks under close supervision 
@@ -17,12 +16,12 @@ Students of technical universities, people who have finished online courses
 - Learn fast
 - Become more independent
 - Communicate with teammates
-- Understand the project's processes and comply them
+- Understand the project's processes and comply with them
 
 ## 🎯 4. Tasks
 - Small improvements
 - Bugs
-- Improving foundamental knowledge.
+- Improving foundamental knowledge
 
 ## 🍦 5. Soft-skills
 - Ability to think and discourse
@@ -34,11 +33,13 @@ Students of technical universities, people who have finished online courses
 ## ✋ 6. What kind of behavior I should avoid?
 - Asking same questions again and again
 - Afraid to ask questions
-- Helplesness. 
-- Lazyness. 
+- Helplesness
+- Lazyness
 
 ## 🙍 7. Who approves the upgrade decision?
 Team Leader
 
 ## 🥪 8. Additional info
-### 3 months of internship, then we either promote to Level 2 - Junior developer or say goodbye
+- 3 months of internship, then we either promote to Level 2 - Junior developer or say goodbye
+- Better avoid assigning support projects to interns
+- 3-4 developers of one competency could be easily complemented with 1 intern
