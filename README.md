@@ -1,4 +1,5 @@
-![devexlogo](https://user-images.githubusercontent.com/47868427/119818298-b357b000-bef7-11eb-8558-32fef1dfd94e.png)
+![logo](https://user-images.githubusercontent.com/47868427/120621951-0d5ff480-c467-11eb-8f69-89d920606f42.png)
+
 
 # 🥅 GOAL OF THE GRADE SYSTEM
   ## Increase level of developers in the company by making a transparent grade system that will answer the following questions: "What is my current level? What should I do to grow?"
