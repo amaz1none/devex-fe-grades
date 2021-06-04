@@ -14,7 +14,7 @@ Level for people with commercial development experience. Here we expect you to b
 - Backend
 - etc.
 
-## 🆙 3. How to upgrade? [Next level - Senior]()
+## 🆙 3. How to upgrade? [Next level - Senior](./Level%206%20-%20Senior.md)
 - Start solving untypical tasks independently
 - Start mentoring other developers
 - Participate in technical interviews
