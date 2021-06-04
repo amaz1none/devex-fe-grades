@@ -5,9 +5,9 @@
 
 
 ## Levels
-- [Level 1 - Intern](/shared/grades/Level%201%20-%20Intern.md)
-- [Level 2 - Junior](/shared/grades/Level%202%20-%20Junior.md)
-- [Level 3-5 - Middle](/shared/grades/Level%203-5%20-%20Middle.md)
-- [Level 6 - Senior](/shared/grades/Level%206%20-%20Senior.md)
-- [Level 7 - Lead](/shared//grades/Level%207%20-%20Lead.md)
-- [Level 8 - Principal](/shared//grades/Level%208%20-%20Principal.md)
+- [Level 1 - Intern](./grades/Level%201%20-%20Intern.md)
+- [Level 2 - Junior](./grades/Level%202%20-%20Junior.md)
+- [Level 3-5 - Middle](./grades/Level%203-5%20-%20Middle.md)
+- [Level 6 - Senior](./grades/Level%206%20-%20Senior.md)
+- [Level 7 - Lead](./grades/Level%207%20-%20Lead.md)
+- [Level 8 - Principal](./grades/Level%208%20-%20Principal.md)
