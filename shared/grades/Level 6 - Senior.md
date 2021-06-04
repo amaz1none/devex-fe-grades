@@ -11,7 +11,7 @@
 - Backend
 - etc.
 
-## 🆙 3. How to upgrade? [Next level - Lead]()
+## 🆙 3. How to upgrade? [Next level - Lead](./Level%207%20-%20Lead.md)
 - Set architectural direction to the project
 - Create workshops/guides to teach other developers
 - Excellent domain knowledge
