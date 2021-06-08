@@ -8,7 +8,7 @@
 ### Make simple UI components
 
 ## ❎ 2. JSX
-### What is it and how to create components
+### Know how to create components with it
 
 ## 🧀 3. Solving standard tasks with JS
 ### Filtration, etc.
