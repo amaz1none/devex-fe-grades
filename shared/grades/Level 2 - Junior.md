@@ -5,10 +5,10 @@
 Level for people with small commercial development experience but with strong foundamental background.
 
 ## 🦉 1. Responsibilities
-### Deliver simple tasks to the production under supervision within reasonable number of attempts
+### Deliver simple tasks to the production under supervision within reasonable number of attempts. Engage in team activities.
 
 ## 📚 2. Knowledge
-- Frontend
+- [Frontend](/hard-skills/frontend/Level%202%20-%20Junior.md)
 - Backend
 - etc.
 
@@ -16,8 +16,8 @@ Level for people with small commercial development experience but with strong fo
 - Stable performance
 - Meet estimates
 - Follow architectural guidlines
-- Reasonable amount of comments into PRs
-- Independent work on standard tasks
+- Have a reasonable amount of comments into PRs
+- Work independently on standard tasks
 - Participate in code-review
 
 ## 🎯 4. Tasks
