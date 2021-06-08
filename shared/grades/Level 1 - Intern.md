@@ -5,7 +5,7 @@
 ### Basic level for people without commercial development experience but with strong foundamental background. Students of technical universities, people who have finished online courses. Usually, for St. Petersburg we are looking for [ITMO](https://itmo.ru/ru/) students, in Rostov-on-Don - [SFEDU](https://sfedu.ru/)
 
 ## 🦉 1. Responsibilities
-### Deliver simple tasks under close supervision 
+### Deliver simple tasks under close supervision. Grow fast. Become the part of the team
 
 ## 📚 2. Knowledge
 - [Frontend](/hard-skills/frontend/Level%201%20-%20Intern.md)
@@ -17,6 +17,7 @@
 - Become more independent
 - Communicate with teammates
 - Understand the project's processes and comply with them
+- Dive deeper into technologies
 
 ## 🎯 4. Tasks
 - Small improvements
