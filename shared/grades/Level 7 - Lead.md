@@ -19,7 +19,7 @@
 - Backend
 - etc.
 
-## 🆙 3. How to upgrade? [Next level - Principal]()
+## 🆙 3. How to upgrade? [Next level - Principal](./Level%208%20-%20Principal.md)
 
 
 ## 🎯 4. Tasks
