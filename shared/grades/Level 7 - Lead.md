@@ -15,7 +15,7 @@
 - Participate in the pre-sale process
 
 ## 📚 2. Knowledge
-- [Frontend](/hard-skills/frontend/Level%206%20-%20Senior.md)
+- [Frontend](/hard-skills/frontend/Level%207%20-%20Lead.md)
 - Backend
 - etc.
 
@@ -40,7 +40,7 @@
 
 ## ✋ 6. What kind of behavior I should avoid?
 - No delegation
-- Man in the high tower
+- Man in the high castle
 - Caring about only one project
 - Inability to assess risks
 
