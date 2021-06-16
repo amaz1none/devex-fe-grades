@@ -27,17 +27,7 @@ I am not satisfied with designer's works on the project X.
 I change the appearance of the page on my own without consulting my colleagues.
 This leads to conflict in the team and delays the project.
 
-## 🧍 2. Self-organization
-### Do more than expected
-#### 👍How to👍
-I want to make the project Y better. 
-I can refactor the old code better while working on a new task as long as it doesn't affect the release and other agreements
-#### 👎How not to👎
-I want to make the project Y better. 
-I constantly rewrite the old parts of the application and because of this, I stretch the time to work on new functionality.
-The codebase gets better, but due to the failure of deadlines, the client leaves.
-
-## 🏀 3. Team work
+## 🏀 2. Team work
 ### Do not hesitate to talk about problems and ask for help
 #### 👍How to👍
 There are a lot of bugs in the project Z due to architectural solutions. 
@@ -48,7 +38,7 @@ While starting working on a new task, I immediately ask more experienced teammat
 No efforts to solve it by myself or proposals from my side were done.
 This leads to a decrease in velocity of the entire team due to leaders' overload.
 
-## 🗺️ 4. Curiosity
+## 🗺️ 3. Curiosity
 ### Try new things
 #### 👍How to👍
 In the project T, I suggest trying a new library/framework / approach. 
@@ -59,7 +49,7 @@ There are a lot of bugs in Project T.
 Every month I bring new libraries to it and change the approach to development, without finishing what I've started. 
 As a result, there are even more problems on the project.
 
-## ⌚ 5. Quality
+## ⌚ 4. Quality
 ### Set a high bar
 #### 👍How to👍
 Project P has strict deadlines. 
@@ -70,7 +60,7 @@ Project P has strict deadlines.
 I am developing a perfect process / feature that will solve all the problems. 
 I spend so much time on this that I don't have time to work on the project.
 
-## 📇 6. Customer care
+## 📇 5. Customer care
 ### Choose technologies based on business needs
 #### 👍How to👍
 The client wants Project D to use simple market technologies. 
@@ -81,7 +71,7 @@ The client wants to implement the K library in the project.
 I do it without discussing why it is so necessary, without assessing the risks. 
 In case of failure, I reduce the level of confidence in the technical expertise of the team.
 
-## 📇 7. Flexibility
+## 📇 6. Flexibility
 ### Evolution instead of revolution
 #### 👍How to👍
 In Project C, you need to make changes to the agreed scope of work. 
