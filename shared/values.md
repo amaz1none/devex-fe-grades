@@ -65,7 +65,7 @@ I spend so much time on this that I don't have time to work on the project.
 #### 👍How to👍
 The client wants Project D to use simple market technologies. 
 We assess the risks, discuss them with the client, and select the right team. 
-We start the project and in during working on it try to sell our usual approach.
+
 #### 👎How not to👎
 The client wants to implement the K library in the project. 
 I do it without discussing why it is so necessary, without assessing the risks. 
@@ -78,8 +78,8 @@ In Project C, you need to make changes to the agreed scope of work.
 I'm discussing how this will affect the initial agreements. 
 If everything is OK, we change it.
 #### 👎How not to👎
-There are a lot of bugs in Project C. 
-Every month I bring new libraries to it and change the approach to development, without finishing what I've started. 
-As a result, there are even more problems.
+In Project C, you need to make changes to the agreed scope of work. 
+Discussions about button sizes and colors or the best possible libraries took ages, you missed deadlines on important business tasks.
+
 
 
