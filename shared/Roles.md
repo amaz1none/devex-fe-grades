@@ -27,3 +27,6 @@ Yes, for example you could act as Team- and Tech Lead if project's team is small
 
 ## **Can I progress without taking roles?**
 You can do it untill senior role (L6). After that you should choose your role to move further
+
+## **Is there any list of hard-skills for tech roles?**
+No, there isn't. On that level we expect you to know what's needed better
