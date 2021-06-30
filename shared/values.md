@@ -1,4 +1,5 @@
-![Values survey questions](https://user-images.githubusercontent.com/47868427/119986499-94771d80-bfcc-11eb-8f65-6b7e8bbf928f.png)
+<img width="1253" alt="119986499-94771d80-bfcc-11eb-8f65-6b7e8bbf928f" src="https://user-images.githubusercontent.com/47868427/123934921-6a829380-d99c-11eb-9821-c5a49c89b791.png">
+
 
 # 🔑 Why do we need it?
   - It is important for the long-term success of the company
