@@ -1,4 +1,5 @@
-![Levels overview](https://user-images.githubusercontent.com/47868427/120173998-4866eb80-c20d-11eb-9501-18ef0b3a513a.png)
+<img width="1080" alt="120173998-4866eb80-c20d-11eb-9501-18ef0b3a513a" src="https://user-images.githubusercontent.com/47868427/123935038-88e88f00-d99c-11eb-9994-28823ef98f4b.png">
+
 
 # Overview
 ### You can check set of questions and parameters that define your grade [here](/shared/questions.md). Answers could be found within each level.
