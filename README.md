@@ -24,7 +24,7 @@
 
 ### 3. Add-ons
   - [Perks](/add-ons/Perks.md)
-  - Bad traits
+  - [Bad traits](/add-ons/Bad%20Traits.md)
   
  ## ❓ FAQ
  
