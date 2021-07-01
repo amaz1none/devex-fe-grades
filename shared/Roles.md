@@ -2,12 +2,12 @@
 
 # 📝 List of roles
 ## 🧑‍🦲 Management path:
-1. Team Lead
+1. [Team Lead](./role/management/Team%20Lead.md)
 2. Project Lead
 3. Delivery Manager
 
 ## 🧔 Technical path:
-1. Tech Lead
+1. [Tech Lead](./role/tech/Tech%20Lead.md)
 2. Software architect
 
 # ❓ FAQ
