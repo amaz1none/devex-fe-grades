@@ -23,7 +23,7 @@
   - Mobile
 
 ### 3. Add-ons
-  - Perks
+  - [Perks](/add-ons/Perks.md)
   - Bad traits
   
  ## ❓ FAQ
