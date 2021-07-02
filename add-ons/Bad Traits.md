@@ -15,4 +15,17 @@
 ## Of course, it doesn't mean that you should do everything sloppy
 
 # 🙆 4. That will do it
-## 
+## So-so quality is ok for you. You don't check your work before sending to anyone else.
+## Work could be technically done, but could you be proud of it?
+
+# 🐺 5. Lone wolf
+## You don't give a damn about your teammates and think that you can handle everything by yourself.
+## Despite your titanic efforts project will probably drown
+
+# 🥼 6. Over engineer
+## You think that technology is not a tool, but the only one thing that is worth attention.
+## Your solutions are so complex that average engineers are terrified by that
+
+# 🙈 7. Everything is ok
+## Despite various issues and problems you think and say that everything is ok. If ignore it maybe it will go away
+## In the end there will be a massive blow, blood, and tears with that approach. Issues are people are aware about them and there is a plan to solve them.
