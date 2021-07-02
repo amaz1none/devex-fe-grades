@@ -8,6 +8,7 @@
 1. No connection to real projects/problems
 2. Metric jerking
 3. Easy-cheesy - everybody is a senior
+4. Using hard-skills section as a detailed map (it should be treated as a compass)
 
 ## 🧬 Overall structure
 
@@ -36,6 +37,16 @@
 
 #### Can I skip some levels (e.g. become L3 Middle after L1 Intern)?
 - No, it is not possible, progress should be made step-by-step. 
+
+#### Are roles is continuation of grades?
+- No, roles are parallel to grades and more related to the particular project, and grades are more code-oriented
+
+#### What are values?
+- They are basic behavioral concepts that show you the right demeanor at any engineering grade/role.
+
+#### Is it necessarily to get one of the perks?
+- No, it's just an additional good things that couldn't been added straight to the grades' levels
+
 
  ##  👏👏👏Contributors👏👏👏
 
