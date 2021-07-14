@@ -32,7 +32,7 @@ Level for people with small commercial development experience but with strong fo
 - Curiosity
 - Communicativeness
 - Ability to work within a team
-- Feeaback acceptance
+- Feedback acceptance
 
 
 ## ✋ 6. What kind of behavior I should avoid?
