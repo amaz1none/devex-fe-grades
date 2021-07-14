@@ -35,7 +35,7 @@
 - Asking same questions again and again
 - Afraid to ask questions
 - Helplessness
-- Lazyness
+- Laziness
 
 ## 🙍 7. Who approves the upgrade decision?
 Team Leader
