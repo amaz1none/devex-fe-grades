@@ -34,7 +34,7 @@
 ## ✋ 6. What kind of behavior I should avoid?
 - Asking same questions again and again
 - Afraid to ask questions
-- Helplesness
+- Helplessness
 - Lazyness
 
 ## 🙍 7. Who approves the upgrade decision?
