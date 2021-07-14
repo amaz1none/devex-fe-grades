@@ -34,7 +34,7 @@ Level for people with commercial development experience. Here we expect you to b
 - Knowledge sharing
 - Responsibility
 - Initiative
-- Open-mindness
+- Open-mindedness
 - Result oriented
 - Planning
 
