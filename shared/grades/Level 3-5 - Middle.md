@@ -40,7 +40,7 @@ Level for people with commercial development experience. Here we expect you to b
 
 
 ## ✋ 6. What kind of behavior I should avoid?
-- Opacity
+- Unpredictability in results
 - Over-engineering
 - Us-vs-them
 
