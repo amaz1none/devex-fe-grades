@@ -38,7 +38,7 @@ Congratulations, you've reached the top of our technical ladder!
 - Not sharing your knowledge
 
 ## 🙍 7. Who approves the upgrade decision?
-2 Tech Leaders (one of them should be from another team) + Head of Frontend + Head of R&D
+Not applicable
 
 ## 🥪 8. Additional info
 
