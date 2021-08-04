@@ -44,3 +44,11 @@ Team Leader
 - 3 months of internship, then we either promote to Level 2 - Junior developer or say goodbye
 - Better avoid assigning support projects to interns
 - 3-4 developers of one competency could be easily complemented with 1 intern
+
+## 🈴 9. Assessment process
+- fill the [following check-list](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=0) during an interview (please make yourself a copy)
+- share it with your Intern developer 2 weeks before PPR
+- fill it from your side as well
+- compare them on PPR and make a PDP plan
+
+
