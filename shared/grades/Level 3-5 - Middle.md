@@ -48,3 +48,9 @@ Level for people with commercial development experience. Here we expect you to b
 2 Team Leaders - one of them should be from another team
 
 ## 🥪 8. Additional info
+
+## 🈴 9. Assessment process
+- fill the [following check-list](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=1344694399) during an interview (please make yourself a copy)
+- share it with your developer 2 weeks before PPR
+- fill it from your side as well
+- compare them on PPR and make a PDP plan
