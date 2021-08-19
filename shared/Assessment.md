@@ -24,7 +24,7 @@
 ## 📊 4. Compare your results at the meeting
   ### - If (yourCheckMark && TeamLeadCheckMark === 1) - it could be checked by TL to be sure that everyone is on the same page
   ### - If (yourCheckMark !== TeamLeadCheckMark) - you discuss what's missed during the meeting. If you missed something - TL should create an action plan to fullfil the knowledge gap
-  ### - If (yourCheckMark && TeamLeadCheckMark === 0) - you and your teamleader should mark items that could be important for the future development
+  ### - If (yourCheckMark === 0 && TeamLeadCheckMark === 0) - you and your teamleader should mark items that could be important for the future development
   
 ## 🙋5. Define your grade
   ### Possible outcomes:
