@@ -41,7 +41,7 @@
 ## ⚔️ 8. What should I do if I disagree with decision about my grade?
 ### - Address your concerns on the meeting with Team Leader
 ### - Understand what is his/her opinion and what should be done to reach the next level
-### - If you didn't found a common ground with your Team Leade you have an option to involve the Head of Department to this discussion (please make sure that there are reasons to do it and prepare strong arguments)
+### - If you didn't found a common ground with your Team Leader you have an option to involve the Head of Department to this discussion (please make sure that there are reasons to do it and prepare strong arguments)
 
 
 
