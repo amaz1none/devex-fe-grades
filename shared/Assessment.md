@@ -10,6 +10,7 @@
    ### It contains the following lists:
    ### - L1-L8 grades skills - start with your current level and check out the next one to see what's expected
    ### - Summary - here you will find a full picture for each technology/skill in a one glimpse
+   
 ## ✅ 2. Check your progress for each column:
    ### - Responsibilities - defines 66% of your grade, this is the main column
    ### - Soft-skills - defines 22% of your grade
@@ -17,12 +18,13 @@
    ### - Add-ons - defines 12% 0f your grade - nice to have side activities
 <img width="596" alt="Grades check-list - Google Sheets 2021-08-19 11-06-26" src="https://user-images.githubusercontent.com/47868427/130032018-ad4b8a0b-813e-4717-a622-5ab41d0cc3fd.png">
 
-## 💤 3. Wait for your team leader - he or she is doing the same thing 
+## 💤 3. Set up a meeting date with your team leader
+### Your team lead will fulfill the same checklist about you from his point of view until this date
 
 ## 📊 4. Compare your results at the meeting
   ### - If (yourCheckMark && TeamLeadCheckMark === 1) - it could be checked by TL to be sure that everyone is on the same page
   ### - If (yourCheckMark !== TeamLeadCheckMark) - you discuss what's missed during the meeting. If you missed something - TL should create an action plan to fullfil the knowledge gap
-  ### - If (yourCheckMark || TeamLeadCheckMark !== 1) - you and your teamleader should mark items that could be important for the future development
+  ### - If (yourCheckMark && TeamLeadCheckMark === 0) - you and your teamleader should mark items that could be important for the future development
   
 ## 🙋5. Define your grade
   ### Possible outcomes:
