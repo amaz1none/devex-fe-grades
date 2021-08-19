@@ -1,5 +1,11 @@
 # 👨‍💻 ASSESSMENT PROCESS
 
+## 📢 0. Basic principles
+### - Show me the money first - prove your skills, then get an upgrade
+### - No magic checkbox - set of hard-skills is here to help you grow, not to the guarantee your level up. What's the reason in your knowlege if your Team Lead is crying?
+### - Different levels requires different balance between skills - the more you grow - the more your soft-skills are prevail on the hard ones
+### - No level downgrades
+
 ## 👁️ 1. See the checklist [here](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=893283890)
    ### It contains the following lists:
    ### - L1-L8 grades skills - start with your current level and check out the next one to see what's expected
