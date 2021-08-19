@@ -17,7 +17,7 @@
   - [Levels](/shared/Levels.md)
   - [Roles](/shared/Roles.md)
   - [Set of topics and questions for each level](/shared/Questions.md)
-  - [Assessment proces](/shared/Assessment.md)
+  - [Assessment process](/shared/Assessment.md)
   
 ### 2. Separate part - hard skills
   - [Frontend](/hard-skills/frontend)
