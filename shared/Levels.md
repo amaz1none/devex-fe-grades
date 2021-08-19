@@ -3,7 +3,7 @@
 
 
 # Overview
-### You can check set of questions and parameters that define your grade [here](/shared/questions.md). Answers could be found within each level.
+### You can check set of questions and parameters that define your grade [here](./Questions.md). Answers could be found within each level.
 
 
 ## Levels
