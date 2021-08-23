@@ -28,4 +28,6 @@
 ## 💾 8. Data structures
 ### Lists, Objects, Sorts, Trees
 
-
+## 😎 9. Where I can find more info?
+- Please follow [Hard-skills check-list for L2](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=1207816477)
+- Check out some of the [live-coding tasks for an interview](https://confluence.in.devexperts.com/x/EYMfDg) (for now only [Tooltip](https://codesandbox.io/s/tooltip-example-for-technical-interview-3d83v?file=/src/index.js) could be used for juniors interviews)
