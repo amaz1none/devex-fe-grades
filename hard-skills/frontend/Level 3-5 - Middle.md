@@ -12,7 +12,7 @@
 ### Failing dead due to an exception - how to prevent. Event loop. This. Multithreading
 
 ## 🩳 4. CSS Advanced
-### Flex/grid. Pre-proccessors. Pseudo-elements and pseudo-classes. Responsiveness. Pixel-perfect layout
+### Flex/grid. Pre-proccessors. Pseudo-elements and pseudo-classes. Responsiveness. CSS-in-JS. Pixel-perfect layout
 
 ## #️⃣ 5. Unit-testing
 ### Can write unit-tests
@@ -22,3 +22,7 @@
 
 ## ⭐ 7. General things
 ### Code review. CI/CD configuring. Decomposing epics to tasks. Storybook. Docker
+
+## 😎 8. Where I can find more info?
+- Please follow [Hard-skills check-list for L3-5](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=1344694399)
+- Check out some of the [live-coding tasks for an interview](https://confluence.in.devexperts.com/x/EYMfDg)
