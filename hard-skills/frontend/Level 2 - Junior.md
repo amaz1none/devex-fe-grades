@@ -5,16 +5,16 @@
 # Hard skills for a Level-2 (Junior) in the Frontend department
 
 ## 🩳 1. HTML/CSS
-### Make simple UI components
+### Make simple UI components, CSS selectors, alt attributes
 
 ## ❎ 2. JSX
 ### Know how to create components with it
 
-## 🧀 3. Solving standard tasks with JS
-### Filtration, etc.
+## 🧀 3. JS basics
+### sovle simple tasks with JS - Filtration, etc. Closure, Single/multi threading
 
 ## 🚀 4. React basics
-### ToDo app, VDOM concept, class and functional components
+### ToDo app, VDOM concept, class and functional components, props
 
 ## 🆎 5. Typescipt basic understanding
 ### What is it, why TS better than JS
