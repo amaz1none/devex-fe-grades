@@ -32,4 +32,5 @@
 - experience of work with not frontend tecnologies
 
 ## 😎 9. Where I can find more info?
-### Please follow [Hard-skills check-list for L1](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=0)
+- Please follow [Hard-skills check-list for L1](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=0)
+- Check out some of the [live-coding tasks for an interview](https://confluence.in.devexperts.com/x/EYMfDg) (for now only [Tooltip](https://codesandbox.io/s/tooltip-example-for-technical-interview-3d83v?file=/src/index.js) could be used for interns interviews)
