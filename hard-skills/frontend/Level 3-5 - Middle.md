@@ -3,7 +3,7 @@
 # Hard skills for Levels 3-5 (Middle) in the Frontend department
 
 ## 🚀 1. React
-### Make UI components of a different comlexity. Understand how to work with the state. Async events + React. Component lifecycle. React context. Memoization. Reconciliation. HOC. Controlled and uncontrolled components. 
+### Make UI components of a different comlexity. Understand how to work with the state. Async events + React. Component lifecycle. React context. Memoization. Reconciliation. HOC. Controlled and uncontrolled components. Hooks. Custom hooks. Improve class components if needed
 
 ## 🅾️ 2. Typescript
 ### Basic types. Advanced types. Any/unknown. Declaring types. Generics. Guards
