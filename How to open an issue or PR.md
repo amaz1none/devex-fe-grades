@@ -1,3 +1,6 @@
+# 0. We are highly appreciate any kind of constructive feedback
+## Active contributors will be placed on the `Contributors` list in Readme footer
+
 # 1. Please follow these rules to open up a PR:
 ## Make PR's title in the following way:
 ### `Level/topic: purpose of a PR`
