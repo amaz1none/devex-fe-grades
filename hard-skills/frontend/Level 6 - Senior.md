@@ -3,28 +3,28 @@
 # Hard skills for Levels 6 (Senior) in the Frontend department
 
 ## 🚀 1. React advanced
-### 
+### Make UI components of any comlexity. Be able to work with different state managers - Redux, MobX, ReAtom, etc. 
 
 ## 🅾️ 2. Typescript advanced
-### 
+### Type vs interface. How to deal with JS in runtime. TS codegen tools. TS linters configuration
 
 ## ❎ 3. Rx
-### Hot/cold streams. Memory leaks. 
+### Hot/cold streams. Memory leaks. Multicasting. Scheduler
 
 ## 📡 4. FP basics
-### FP vs OOP. Monad concept. Pure functions
+### Monad concept. ADTs. Pure functions. How to use [fp-ts](https://github.com/gcanti/fp-ts)
 
 ## 🏗️ 5. Build tools
-### Initial configuration of the project. Npm, yarn, webpack.
+### Initial configuration of the project. Npm, yarn, webpack. 
 
-## 🧹 6. Clean architecture
-### 
+## 🧹 6. Architectural practices
+### Clean architecture. MV*. Presentation Domain Separation. FP vs OOP. How to work with legacy. How to build an app from zero to prod
 
 ## 🔄 7. CI/CD basics
-### Docker. Autodeploy configuration
+### Docker. Autodeploy configuration. Linters. Storybook. Pre-commit hooks. Logging and monitoring systems
 
-## 🔍 8. Code review
-###
+## 🔍 8. Other
+### Code review. Domain area. Performance optimization
 
 ## 😎 9. Where I can find more info?
 - Please follow [Hard-skills check-list for L6](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=1856671199)
