@@ -45,3 +45,9 @@
 
 
 ## 🥪 8. Additional info
+
+## 🈴 9. Assessment process
+- fill the [following check-list](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=1856671199) during an interview (please make yourself a copy)
+- share it with your developer 2 weeks before PPR
+- fill it from your side as well
+- compare them on PPR and make a PDP plan
