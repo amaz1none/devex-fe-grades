@@ -2,7 +2,7 @@
 
 ## 📢 0. Basic principles
 ### - Show me the money first - prove your skills, then get an upgrade
-### - No magic checkbox - set of hard-skills is here to help you grow, not to the guarantee your level up. What's the reason in your knowlege if your Team Lead is crying?
+### - No magic checkbox - set of hard-skills is here to help you grow, not to guarantee your level up. What's the reason in your knowlege if your Team Lead is crying?
 ### - Different levels requires different balance between skills - the more you grow - the more your soft-skills are prevail on the hard ones
 ### - No level downgrades
 
