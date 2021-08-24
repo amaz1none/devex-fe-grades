@@ -34,7 +34,7 @@
  - No, there will be no testing. However, we do believe that everyone can check their level by themself or with the help of a teamleader and create an action plan to match the grade requirements within reasonable amount of time
  
  #### Can I change something in the grade system?
- - Yes, you can make your suggestions. They will be reviewed by mainteners of this repo
+ - Yes, you can make your suggestions. They will be reviewed by mainteners of this repo. You will find basic rules [here](./How%20to%20open%20an%20issue%20or%20PR.md)
 
 #### Can I skip some levels (e.g. become L3 Middle after L1 Intern)?
 - No, it is not possible, progress should be made step-by-step. 
