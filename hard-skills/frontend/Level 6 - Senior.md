@@ -26,4 +26,7 @@
 ## 🔍 8. Code review
 ###
 
+## 😎 9. Where I can find more info?
+- Please follow [Hard-skills check-list for L6](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=1856671199)
+- Check out some of the [live-coding tasks for an interview](https://confluence.in.devexperts.com/x/EYMfDg). [Ticker finder](https://codesandbox.io/s/devexperts-coding-interview-en-mwe0f?file=/tasks.txt) looks like the right task here
 
