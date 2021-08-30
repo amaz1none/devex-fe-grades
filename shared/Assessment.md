@@ -23,6 +23,7 @@
    ### - Soft-skills - defines 22% of your grade
    ### - Hard-skills - helps you to progress with responsibilities
    ### - Add-ons - defines 12% 0f your grade - nice to have side activities
+## Please start with the list of your current grade and L+1 grade (to see what's needed to reach the next level)
 <img width="596" alt="Grades check-list - Google Sheets 2021-08-19 11-06-26" src="https://user-images.githubusercontent.com/47868427/130032018-ad4b8a0b-813e-4717-a622-5ab41d0cc3fd.png">
 
 ## 💤 3. Set up a meeting date with your team leader
