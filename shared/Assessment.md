@@ -16,7 +16,7 @@
    ### - S - sometimes you work with it. Keyword - sometimes
    ### - M - you are familiar with this tasks and often work on them. Keyword - constantly
    ### - L - most of your time is spend on these responsibilities or you are able to fullfil them easily if needed. You can teach other people how to implement them. Keyword - most of the times
-   ### - XL - you can implement it blindfolded within minimum amount of ti,e. You've created a detailed how to guides for your project. Keyword - every time 
+   ### - XL - you can implement it blindfolded within minimum amount of time. You've created a detailed how to guides for your project. Keyword - every time 
    
 ## ✅ 2. Check your progress for each column:
    ### - Responsibilities - defines 66% of your grade, this is the main column
