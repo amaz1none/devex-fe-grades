@@ -1,4 +1,5 @@
-<img width="1392" alt="grades" src="https://user-images.githubusercontent.com/47868427/120641169-f546a000-c47b-11eb-94a1-b03db576ab43.png">
+<img width="1552" alt="Grades Roadmap, Online Whiteboard for Visual Collaboration 🔊 2021-08-31 11-38-32" src="https://user-images.githubusercontent.com/47868427/131470977-a5e4e91a-e1bd-4509-98ff-6b481060536e.png">
+
 
 # Hard skills for Levels 6 (Senior) in the Frontend department
 
@@ -21,7 +22,7 @@
 ### Clean architecture. MV*. Presentation Domain Separation. FP vs OOP. How to work with legacy. How to build an app from zero to hero. SOLID. SSR
 
 ## 🔍 7. Other
-### Code review. Domain area. Performance optimization. Choose technology stack. V8 engine. Backend PL basics (Java/Haskell/etc)
+### Code review. Domain area. Performance optimization. Choose technology stack. Backend PL basics (Java/Haskell/etc)
 
 ## 😎 8. Where I can find more info?
 - Please follow [Hard-skills check-list for L6](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=1856671199)
