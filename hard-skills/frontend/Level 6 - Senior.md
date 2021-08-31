@@ -13,7 +13,7 @@
 ### Hot/cold streams. Memory leaks. Multicasting. Scheduler. Emit optimization.
 
 ## 📡 4. FP basics
-### Monad concept. ADTs. Pure functions. How to use [fp-ts](https://github.com/gcanti/fp-ts). Fantasy Land.
+### Monad concept. ADTs. Pure functions. How to use [fp-ts](https://github.com/gcanti/fp-ts). [Fantasy Land](https://github.com/fantasyland/fantasy-land).
 
 ## 🏗️ 5. Tooling
 ### Initial configuration of the project. Npm, yarn, webpack. Docker. Autodeploy configuration. Linters. Storybook. Pre-commit hooks. Logging and monitoring systems.
