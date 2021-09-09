@@ -6,7 +6,11 @@
 ### - Different levels requires different balance between skills - the more you grow - the more your soft-skills are prevail on the hard ones
 ### - No level downgrades
 
-## 👁️ 1. See the checklist [here](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=893283890)
+## 👁️ 1. See the checklist 
+   ## - [Frontend](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=893283890)
+   ## - Backend (coming soon)
+   ## - Mobile (coming soon)
+    
    ### It contains the following lists:
    ### - L1-L8 grades skills - start with your current level and check out the next one to see what's expected
    ### - Summary - here you will find a full picture for each technology/skill in a one glimpse
