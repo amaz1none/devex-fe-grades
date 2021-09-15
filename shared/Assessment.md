@@ -27,16 +27,19 @@
    ### - Soft-skills - defines 22% of your grade
    ### - Hard-skills - helps you to progress with responsibilities
    ### - Add-ons - defines 12% 0f your grade - nice to have side activities
-## Please start with the list of your current grade and L+1 grade (to see what's needed to reach the next level). It's not prohibited and could be useful to check previous level, however, we suggest not to spend a lot of meeting's time on previous levels
+## Copy the whole table (it's important because items for dropdowns are located in the same file). Please start with the list of your current grade and L+1 grade (to see what's needed to reach the next level). It's not prohibited and could be useful to check previous level, however, we suggest not to spend a lot of meeting's time on previous levels
 <img width="596" alt="Grades check-list - Google Sheets 2021-08-19 11-06-26" src="https://user-images.githubusercontent.com/47868427/130032018-ad4b8a0b-813e-4717-a622-5ab41d0cc3fd.png">
 
 ## 💤 3. Set up a meeting date with your team leader
 ### Your team lead will fulfill the same checklist about you from his point of view until this date
 
 ## 📊 4. Compare your results at the meeting
-  ### - If (yourCheckMark && TeamLeadCheckMark === 1) - it could be checked by TL to be sure that everyone is on the same page
-  ### - If (yourCheckMark !== TeamLeadCheckMark) - you discuss what's missed during the meeting. If you missed something - TL should create an action plan to fullfil the knowledge gap
-  ### - If (yourCheckMark === 0 && TeamLeadCheckMark === 0) - you and your teamleader should mark items that could be important for the future development
+  ### Share access to your table with a team leader. Team leader should share a screen with 2 tables near each other
+  ![image (4)](https://user-images.githubusercontent.com/47868427/133433706-78edc5ee-7abb-4d11-ab18-1a23652401e8.png)
+
+  ### - If yourCheckMark && TeamLeadCheckMark is on the equal high level  - it could be checked by TL to be sure that everyone is on the same page
+  ### - If yourCheckMark !== TeamLeadCheckMark - you discuss what's missed during the meeting. If you missed something - TL should create an action plan to fullfil the knowledge gap
+  ### - If yourCheckMark && TeamLeadCheckMark is on the equal low/none level - you and your teamleader should mark items that could be important for the future development
   
 ## 🙋5. Define your grade
   ### Possible outcomes:
