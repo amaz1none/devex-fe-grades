@@ -1,8 +1,8 @@
 # Hard skills for a Level-1 (Intern) in the Frontend department
-## ‼️ Disclaimer - if there are some gaps in knowledge but overall expression after interview is good and a person seems like a quick learner - go ahead and try him/her on internship‼️
+## ‼️ Disclaimer - if there are some gaps in knowledge but the overall impression after the interview is good and a person seems like a quick learner - go ahead and try them on internship‼️
 
 ## 1. Basic tools - Jira, Git, etc. 
-### Be able to start work within our environment during a minimum amout of time. Know how to create a ticket in Jira, tickets workflow, git commands, git flow
+### Is able to start work within our environment within a short period of time. Knows how to create a ticket in Jira, tickets workflow, git commands, git flow
 
 
 ## 2. Programming languages
