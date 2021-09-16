@@ -1,28 +1,22 @@
-<img width="1403" alt="middle" src="https://user-images.githubusercontent.com/47868427/120443736-9dcb0600-c38f-11eb-8f7d-efc11c91f255.png">
+# Hard skills for Levels 3-5 (Middle) for the Andriod developer
 
-# Hard skills for Levels 3-5 (Middle) in the Frontend department
+## 1. Advanced Kotlin
+### Is proficient in language usage. Leverages non-trivial language features such as sealed classes, generics, delegates, extensions or DSL builders. Taking full advantage of the tool, without bringing unnecessary features just for the sake of having them, 
 
-## 🚀 1. React
-### Make UI components of a different comlexity. Understand how to work with the state. Async events + React. Component lifecycle. React context. Memoization. Reconciliation. HOC. Controlled and uncontrolled components. Hooks. Custom hooks. Improve class components if needed
+## 2. View lifecycle
+### Knows how views are being inflated, measured laid out and drawn. Could write a custom view or a custom layout.
 
-## 🅾️ 2. Typescript
-### Basic types. Advanced types. Any/unknown. Declaring types. Generics. Guards
+## 3. Reactive programming basics
+### Could write simple reactive code using a certain framework. Understands Observable/Obersver patterns, understands the thread model behind rx.  
 
-## 🤖 3. JS Advanced
-### Failing dead due to an exception - how to prevent. Event loop. This. Multithreading
+## 4. Network
+### Has a deep knowledge of network communications. OSI Model, DNS, Sockets, SSL. 
 
-## 🩳 4. CSS Advanced
-### Flex/grid. Pre-proccessors. Pseudo-elements and pseudo-classes. Responsiveness. CSS-in-JS. Pixel-perfect layout
+## 5. Testing
+### Knows what are unit, UI and e2e tests. Is capable of writing tests in accordance to the projects' policies.
 
-## #️⃣ 5. Unit-testing
-### Can write unit-tests
-
-## ❎ 6. Rx basics
-### Observable/observer pattern. For what tasks it could be useful
-
-## ⭐ 7. General things
-### Code review. CI/CD configuring. Decomposing epics to tasks. Storybook. Docker
+## 6. Code review
+### Has a good understanding of the code reiew process. Knows what are the goals of it and does their reviews efficiently based on the goals.
 
 ## 😎 8. Where I can find more info?
 - Please follow [Hard-skills check-list for L3-5](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=1344694399)
-- Check out some of the [live-coding tasks for an interview](https://confluence.in.devexperts.com/x/EYMfDg)
