@@ -1,4 +1,4 @@
-# Hard skills for a Level-1 (Intern) in the Frontend department
+# Hard skills for the Level-1 (Intern) for an Android developer
 ## ‼️ Disclaimer - if there are some gaps in knowledge but the overall impression after the interview is good and a person seems like a quick learner - go ahead and try them on internship‼️
 
 ## 1. Basic tools - Jira, Git, etc. 
