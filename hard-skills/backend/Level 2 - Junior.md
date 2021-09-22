@@ -34,4 +34,4 @@ Writes unit tests, increases project's test coverage
 
 ## 🗺️ 8. Navigation
 - ⬅️ [To the previous level](Level%201%20-%20Intern.md)
-- ➡️ [To the next level](Level%2023%20-%20Low%20Middle.md)
+- ➡️ [To the next level](Level%203%20-%20Low%20Middle.md)
