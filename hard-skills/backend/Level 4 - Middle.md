@@ -21,7 +21,7 @@ Has been using Pair Programming/TDD/BDD approaches for long stretches when devel
 ## 💻 4. Programming
 Adopts functional programming paradigm
 
-## 💻 5. Testing
+## 🟢 5. Testing
 Writes tests to cover asynchornous communication
 
 ## ⚠️ 6. Anti-Patterns
