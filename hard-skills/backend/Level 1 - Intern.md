@@ -4,7 +4,7 @@
 - Learns under close instruction of the team
 - [Hard-skills check-list for L1](https://docs.google.com/spreadsheets/d/1Tu1rYjERCJYOxHWOK1qulFuNGsv5ObxORKWsJtqd38s/edit#gid=794128633)
 
-## 🔄 1. Funamentals
+## 🔄 1. Fundamentals
 Is fluent in computer science fundamentals: data structures, algorithms, O-notation and programming paradigms
 
 ## 🧰 2. Tools
