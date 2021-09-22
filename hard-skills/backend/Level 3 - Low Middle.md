@@ -21,7 +21,7 @@ Uses IDE plugins, linters and other tools to detect code smells/potential bugs, 
 ## 💻 4. Programming
 Writes readable/maintainable/evolvable code following good coding principles such as DRY, well scoped functions, self-explanatory namings and small commits/classes
 
-## 💻 5. Testing
+## 🟢 5. Testing
 Writes integration tests
 
 ## ⚠️ 6. Anti-Patterns
