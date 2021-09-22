@@ -35,5 +35,5 @@ Writes tests to cover asynchornous communication
 - [Agile from Trenches](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2/)
 
 ## 🗺️ 8. Navigation
-- ⬅️ [To the previous level]((Level%203%20-%20Low%20Middle.md)
+- ⬅️ [To the previous level](Level%203%20-%20Low%20Middle.md)
 - ➡️ [To the next level](Level%205%20-%20High%20Middle.md)
