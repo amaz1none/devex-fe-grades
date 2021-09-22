@@ -28,3 +28,6 @@ Is fluent in OOP fundamentals and can apply them in their respective language
 - [Algorithms](https://algs4.cs.princeton.edu/home/)
 - [Computer Science Classes](https://courses.cs.washington.edu/courses/cse351/16wi/goals-and-syllabus.html)
 - Please follow [Hard-skills check-list for L1](https://docs.google.com/spreadsheets/d/1Tu1rYjERCJYOxHWOK1qulFuNGsv5ObxORKWsJtqd38s/edit#gid=794128633)
+
+## Navigation
+- ➡️ [To the next level](Level%202%20-%20Junior.md)
