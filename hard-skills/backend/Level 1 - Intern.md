@@ -1,6 +1,9 @@
 <img width="1344" alt="intern fe" src="https://user-images.githubusercontent.com/47868427/120193769-76582a00-c225-11eb-933e-838a79fe33a8.png">
 
-# Hard skills for a Level-1 (Intern) in the Backend department
+# Role Model Level-1 (Intern) in the Backend Department
+- Learns under close instruction of the team
+- [Hard-skills check-list for L1](https://docs.google.com/spreadsheets/d/1Tu1rYjERCJYOxHWOK1qulFuNGsv5ObxORKWsJtqd38s/edit#gid=794128633)
+
 ## 🔄 1. Funamendtals
 Is fluent in computer science fundamentals: data structures, algorithms, O-notation and programming paradigms
 
@@ -26,8 +29,7 @@ Is fluent in OOP fundamentals and can apply them in their respective language
 
 ## 😎 7. What Might Have Helped Along The Way
 - [Algorithms](https://algs4.cs.princeton.edu/home/)
-- [Computer Science Classes](https://courses.cs.washington.edu/courses/cse351/16wi/goals-and-syllabus.html)
-- Please follow [Hard-skills check-list for L1](https://docs.google.com/spreadsheets/d/1Tu1rYjERCJYOxHWOK1qulFuNGsv5ObxORKWsJtqd38s/edit#gid=794128633)
+- [Computer Science Classes](https://courses.cs.washington.edu/courses/cse351/16wi/goals-and-syllabus.html
 
 ## Navigation
 - ➡️ [To the next level](Level%202%20-%20Junior.md)
