@@ -1,11 +1,11 @@
 <img width="1344" alt="intern fe" src="https://user-images.githubusercontent.com/47868427/120193769-76582a00-c225-11eb-933e-838a79fe33a8.png">
 
 # Role Model Level-2 (Junior) in the Backend Department
-- Is pragmatic about the time they spend on a problem before escalating to others
-- Knows most of the intricacies of their primary language(s) comfortably and how to use it for common cases
-- Maintains clear, concise and approproate documentation on the systems they work on
-- Follows coding and styling standards for their framework, language or project
-- Provides valuable feedback on peer’s work through pull requests
+- Has a sufficient grasp of programming to write production-ready code through several iterations before shipping
+- Receives and integrates feedback from code reviews to ship high-quality code
+- Builds well-defined small features, investigates and fixes minor bugs, writes tests
+- Requires assistance to identify and address problems
+- Understands the purpose of most ceremonies, while attending and contributing to them
 
 Checkout [Hard-skills check-list for L1](https://docs.google.com/spreadsheets/d/1Tu1rYjERCJYOxHWOK1qulFuNGsv5ObxORKWsJtqd38s/edit#gid=794128633) to get more detailed view of expectations.
 
