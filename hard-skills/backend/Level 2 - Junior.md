@@ -21,7 +21,7 @@ Receives and integrates feedback from code reviews to ship high-quality code
 ## 💻 4. Programming
 Adheres to project/company code style guidelines
 
-## 💻 5. Testing
+## 🟢 5. Testing
 Writes unit tests, increases project's test coverage
 
 ## ⚠️ 6. Anti-Patterns
