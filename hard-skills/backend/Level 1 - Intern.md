@@ -1,20 +1,23 @@
 <img width="1344" alt="intern fe" src="https://user-images.githubusercontent.com/47868427/120193769-76582a00-c225-11eb-933e-838a79fe33a8.png">
 
 # Role Model Level-1 (Intern) in the Backend Department
-- Learns under close instruction of the team
+- Learns under close instruction.
+- Builds up proficiency with our tech stack and becomes comfortable with learning new technologies and skills.
+- Is fluent in OOP fundamentals and can apply them in their respective language.
+- Is fluent in computer science fundamentals: data structures, algorithms, and paradigms
 - [Hard-skills check-list for L1](https://docs.google.com/spreadsheets/d/1Tu1rYjERCJYOxHWOK1qulFuNGsv5ObxORKWsJtqd38s/edit#gid=794128633)
 
 ## 🔄 1. Fundamentals
-Is fluent in computer science fundamentals: data structures, algorithms, O-notation and programming paradigms
+Reasons about performance of their code in terms of O-o (optional: ϴ-θ, Ω-ω) notation and can explain the difference formally.
 
 ## 🧰 2. Tools
 Is able to start working within short period of time in our environment. Knows how to create a ticket in Jira, tickets workflow, git commands, git flow
 
 ## ⛷️ 3. Techniques
-Builds up proficiency with our tech stack and becomes comfortable with learning new technologies and skills.
+Can easily reproduce and debug locally most of the defects
 
 ## 💻 4. Programming
-Is fluent in OOP fundamentals and can apply them in their respective language
+Adheres to OOP concepts when writing code
 
 ## ➕ 5. Bonus points
 - experience in commercial projects
