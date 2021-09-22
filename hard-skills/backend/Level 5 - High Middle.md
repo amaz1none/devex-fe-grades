@@ -7,7 +7,7 @@
 - Analyzes and breaks down problems within a subdomain, builds up requirements
 - End-to-end owner of their solutions. Accountable and responsible for the entire lifecycle of their work: through planning, development, testing, deploy, maintenance, and monitoring
 
-Checkout [Hard-skills check-list for Level 4](https://docs.google.com/spreadsheets/d/1Tu1rYjERCJYOxHWOK1qulFuNGsv5ObxORKWsJtqd38s/edit#gid=794128633) to get more detailed view of expectations.
+Checkout [Hard-skills check-list for Level 5](https://docs.google.com/spreadsheets/d/1Tu1rYjERCJYOxHWOK1qulFuNGsv5ObxORKWsJtqd38s/edit#gid=794128633) to get more detailed view of expectations.
 
 ## 🔄 1. Fundamentals
 Has a solid grasp on general difference between UDP and TCP
