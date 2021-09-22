@@ -29,7 +29,7 @@ Is fluent in OOP fundamentals and can apply them in their respective language
 
 ## 😎 7. What Might Have Helped Along The Way
 - [Algorithms](https://algs4.cs.princeton.edu/home/)
-- [Computer Science Classes](https://courses.cs.washington.edu/courses/cse351/16wi/goals-and-syllabus.html
+- [Computer Science Classes](https://courses.cs.washington.edu/courses/cse351/16wi/goals-and-syllabus.html)
 
 ## Navigation
 - ➡️ [To the next level](Level%202%20-%20Junior.md)
