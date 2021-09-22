@@ -2,16 +2,16 @@
 
 # Hard skills for a Level-1 (Intern) in the Backend department
 ## 🔄 1. Funamendtals
-### Is fluent in computer science fundamentals: data structures, algorithms, O-notation and programming paradigms
+Is fluent in computer science fundamentals: data structures, algorithms, O-notation and programming paradigms
 
 ## 🧰 2. Tools
-### Is able to start working within short period of time in our environment. Knows how to create a ticket in Jira, tickets workflow, git commands, git flow
+Is able to start working within short period of time in our environment. Knows how to create a ticket in Jira, tickets workflow, git commands, git flow
 
 ## ⛷️ 3. Techniques
-### Builds up proficiency with our tech stack and becomes comfortable with learning new technologies and skills.
+Builds up proficiency with our tech stack and becomes comfortable with learning new technologies and skills.
 
 ## 💻 4. Programming
-### Is fluent in OOP fundamentals and can apply them in their respective language
+Is fluent in OOP fundamentals and can apply them in their respective language
 
 ## ➕ 5. Bonus points
 - experience in commercial projects
