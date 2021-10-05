@@ -1,4 +1,4 @@
-# Hard skills for the Level-1 (Intern) for an Android developer
+# Hard skills for the Level-1 (Intern) for an iOS developer
 ## ‼️ Disclaimer - if there are some gaps in knowledge but the overall impression after the interview is good and a person seems like a quick learner - go ahead and try them on internship‼️
 
 ## 1. Basic tools - Jira, Git, etc. 
@@ -6,13 +6,13 @@
 
 
 ## 2. Programming languages
-### Konwledge of either Java or Kotlin - from basic concepts to syntax
+### Konwledge of Swift - from basic concepts to syntax
 
 ## 3. Code patterns basics
 ### DRY, KISS, YAGNI, some of the most used GoF patterns
 
-## 4. Android
-### Mobile application components, their lifecycles and communications
+## 4. iOS
+### UIKit basics - components, lifecycles events distribution
 
 ## 5. Algorithms and data structures
 ### Ability to consider the complexity of operations, O-notation
