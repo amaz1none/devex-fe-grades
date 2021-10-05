@@ -8,24 +8,21 @@
 ## 2. Working with the code
 ### Could solve standard tasks within the existing codebase
 
-## 3. Components
-### Could use platform components beyond just Activity
-
-## 4. Network basics
+## 3. Network basics
 ### Has a good idea how to use HTTP(S) and REST.
 
-## 5. Architecture
+## 4. Architecture
 ### Knows some of the MV* architectures, understands what is their purpose, what are the differences - and could consistently follow the architectural approach taken.
 
-## 6. Unit-testing basic understanding
+## 5. Unit-testing basic understanding
 ### Tools, why should we use it
 
-## 7. Data structures
+## 6. Data structures
 ### Lists, Objects, Sorts, Trees
 
-## 8. Multithreading 
+## 7. Multithreading 
 ### Understands why would they need it, what are the potential pitfalls.
 ### Could offload a long task execution onto a background thread in some way - e.g., via GCD. Understands the difference between serial and concurrent.
 
-## 😎 9. Where I can find more info?
+## 8. Where I can find more info?
 - Please follow [Hard-skills check-list for L2](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=1207816477)
