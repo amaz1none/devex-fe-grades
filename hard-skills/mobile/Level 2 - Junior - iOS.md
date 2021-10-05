@@ -1,0 +1,31 @@
+## ‼️ Disclaimer - this list of hard skills should be treated as a compass, not as the detailed map‼️
+
+# Hard skills for a Level-2 (Junior) for an Android developer
+
+## 1. Android SDK
+### Can write simple app(2-3 screens) from scratch
+
+## 2. Working with the code
+### Could solve standard tasks within the existing codebase
+
+## 3. Components
+### Could use platform components beyond just Activity
+
+## 4. Network basics
+### Has a good idea how to use HTTP(S) and REST.
+
+## 5. Architecture
+### Knows some of the MV* architectures, understands what is their purpose, what are the differences - and could consistently follow the architectural approach taken.
+
+## 6. Unit-testing basic understanding
+### Tools, why should we use it
+
+## 7. Data structures
+### Lists, Objects, Sorts, Trees
+
+## 8. Multithreading 
+### Understands why would they need it, what are the potential pitfalls.
+### Could offload a long task execution onto a background thread in some way.
+
+## 😎 9. Where I can find more info?
+- Please follow [Hard-skills check-list for L2](https://docs.google.com/spreadsheets/d/1PKy3hWqiKJ66MxrWhCk9xprJgO_-g2xnjnB0SvUuosY/edit#gid=1207816477)
