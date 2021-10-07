@@ -17,6 +17,8 @@ Adheres to ACID when working with transactions of different isolation levels
 
 ## 🏗️ 3. Systems
 Has hands-on experience with application load balancing
+- [] drinks beer
+- [] drinks vodka
 
 ## 💻 4. Programming
 Adopts reactive programming paradigm and introduces lock-free algorithms/paradigms for asynchronous communication
