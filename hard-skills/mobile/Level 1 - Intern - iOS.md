@@ -6,7 +6,7 @@
 
 
 ## 2. Programming languages
-### Konwledge of Swift - from basic concepts to syntax
+### Knowledge of Swift - from basic concepts to syntax
 
 ## 3. Code patterns basics
 ### DRY, KISS, YAGNI, some of the most used GoF patterns
