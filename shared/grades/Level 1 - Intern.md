@@ -22,7 +22,7 @@
 ## 🎯 4. Tasks
 - Small improvements
 - Bugs
-- Improving foundamental knowledge
+- Improving fundamental knowledge
 
 ## 🍦 5. Soft-skills
 - Ability to think and discourse
