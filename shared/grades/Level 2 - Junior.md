@@ -2,7 +2,7 @@
 
 
 # Overview
-Level for people with small commercial development experience but with strong foundamental background.
+Level for people with small commercial development experience but with strong fundamental background.
 
 ## 🦉 1. Responsibilities
 ### Deliver simple tasks to the production under supervision within reasonable number of attempts. Engage in team activities.
