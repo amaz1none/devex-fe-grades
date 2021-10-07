@@ -17,7 +17,7 @@
 - Excellent domain knowledge
 - Successfully raised strong developers in the team
 - Experience in solving complex technical tasks 
-- Good understanding of the whole development lyfecycle and different roles in it
+- Good understanding of the whole development lifecycle and different roles in it
 
 
 ## 🎯 4. Tasks
