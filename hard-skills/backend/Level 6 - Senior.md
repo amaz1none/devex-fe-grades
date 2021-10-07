@@ -1,6 +1,7 @@
 <img width="1344" alt="intern fe" src="https://user-images.githubusercontent.com/47868427/120193769-76582a00-c225-11eb-933e-838a79fe33a8.png">
 
-# Role Model Level-6 (Senior) in the Backend DepartmentIdentifies, prioritises and escalates problems within a project that need to be addressed in order to meet the goals of a team/product/client/company.
+# Role Model Level-6 (Senior) in the Backend Department
+- Identifies, prioritises and escalates problems within a project that need to be addressed in order to meet the goals of a team/product/client/company.
 - Delivers solutions to more complex problems, tackles large components such as integrations or significant features
 - Helps others solve problems quite a bit, guides others on best practices in programming, automated testing techniques and writing pragmatic and effective tests
 - Helps grow the engineering function by participating in the hiring prcoess and promoting company as a great employer and by giving actionable feedback to team members from both technical and professional aspects
