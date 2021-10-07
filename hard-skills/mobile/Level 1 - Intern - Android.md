@@ -6,7 +6,7 @@
 
 
 ## 2. Programming languages
-### Konwledge of either Java or Kotlin - from basic concepts to syntax
+### Knowledge of either Java or Kotlin - from basic concepts to syntax
 
 ## 3. Code patterns basics
 ### DRY, KISS, YAGNI, some of the most used GoF patterns
